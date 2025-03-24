@@ -9,7 +9,7 @@ const demoNote = defineNoteConfig({
 const UITest = defineNoteConfig({
   dir: 'UITest',
   link: '/UITest',
-  sidebar: ['', 'foo', 'bar' , '功能测试'],
+  sidebar: ['', '功能测试','测试用例','测试工具','腾讯工作室信息'],
 },)
 
 export const notes = defineNotesConfig({
